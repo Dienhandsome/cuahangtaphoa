@@ -1,0 +1,81 @@
+﻿@model ProductModel
+@{
+    ViewData["title"] = "Create Product";
+}
+<style>
+    .form-group {
+        margin-bottom: 20px; /* Khoảng cách giữa các phần tử trong form */
+    }
+
+    .col-lg-9 {
+        padding: 0 15px; /* Padding cho khối col-lg-9 */
+    }
+        /* Thêm CSS cho các div chứa form-group */
+        .col-lg-9 > div {
+            margin-bottom: 20px; /* Khoảng cách giữa các div chứa form-group */
+        }
+</style>
+
+<h4>Create Product</h4>
+<div class="col-lg-9">
+    @* Chiều dài của khung *@
+    <form asp-action="Edit" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label>Name</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Description</label>
+            <textarea asp-for="Description" class="form-control" id="Description"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Price</label>
+            <input asp-for="Price" class="form-control" value="@Model.Price.ToString("#,##0").000" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Category</label>
+            <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Category">
+                <option>--Choose a category</option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Brand</label>
+            <select asp-for="BrandId" class="form-control" asp-items="ViewBag.Brand">
+                <option>--Choose a Brand</option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Image</label>
+            <input asp-for="ImageUpload" class="form-control">
+            <span asp-validation-for="ImageUpload" class="text-danger"></span>
+            <td><img src="~/media/products/@Model.Image" width="120"></td> @* Giups hiển thị sản phẩm trong Edit *@
+
+        </div>
+
+        <div class="form-group">
+            <button class="btn btn-primary">Update</button>
+        </div>
+    </form>
+    <a asp-action="Index">Back to List Product</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace('Description');
+    </script>
+}

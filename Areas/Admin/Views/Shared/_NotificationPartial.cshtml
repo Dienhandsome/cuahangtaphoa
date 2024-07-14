@@ -1,0 +1,12 @@
+﻿@if(TempData["success"]!=null){
+    <div class="alert alert-success notification">
+        <div>@Html.Raw(TempData["success"].ToString())</div>
+@*         chỉ cần nhiêu là đủ nhưng thêm đó để loại bỏ dấu chấm phẩy cuối cùng khi hiện thông báo *@
+    </div>
+}
+@if (TempData["error"] != null)
+{
+    <div class="alert alert-success notification">
+        <div>@Html.Raw(TempData["error"].ToString())</div>
+    </div>
+}

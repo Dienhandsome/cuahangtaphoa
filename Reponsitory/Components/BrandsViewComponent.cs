@@ -1,0 +1,18 @@
+﻿using CUAHANG_TAPHOA.Reponsitory;
+using Gocery.Repository;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+
+namespace Gocery.Repository.Components
+{
+	public class BrandsViewComponent : ViewComponent
+	{
+		private readonly DataContext _dataContext;
+
+		public BrandsViewComponent(DataContext context)
+		{
+            _dataContext = context;
+		}
+		public async Task<IViewComponentResult> InvokeAsync() => View(await _dataContext.Brand.ToListAsync());
+	}
+}

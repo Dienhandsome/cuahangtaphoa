@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CUAHANG_TAPHOA.props" />
+</Project>
