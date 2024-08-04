@@ -2,7 +2,7 @@
 using CUAHANG_TAPHOA.Reponsitory;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
+
 
 
 namespace CUAHANG_TAPHOA.Controllers

@@ -1,17 +1,19 @@
 ﻿using CUAHANG_TAPHOA.Models;
 using CUAHANG_TAPHOA.Reponsitory;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using System.Net.WebSockets;
 using System.Text.RegularExpressions;
-using System.Collections.Generic;
+
 
 namespace CUAHANG_TAPHOA.Areas.Admin.Controllers
 {
 	[Area("Admin")]
-	public class ProductController : Controller
+    [Authorize] // khi đăng nhập thì mới cho vào product
+    public class ProductController : Controller
 	{
 		private readonly DataContext _dataContext;
 		private readonly IWebHostEnvironment _webHostEnvironment;

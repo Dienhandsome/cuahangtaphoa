@@ -18,6 +18,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\CRUB_FB_.NET\CUAHANG_TAPHOA\CUAHANG_TAPHOA
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/AppRoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/AppRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +56,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Order/ViewOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcVmlld09yZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Product/Create.cshtml]
@@ -74,12 +106,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Brand/Index.cshtml]
@@ -96,6 +148,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Checkout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Home/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Home/Index.cshtml]

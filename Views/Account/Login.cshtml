@@ -1,0 +1,40 @@
+﻿@model LoginViewModel
+@{
+	ViewData["Title"] = "Login";
+}
+<style>
+	.login-form form button, .signup-form form button {
+		margin-bottom: 12px;
+	}
+
+	}
+</style>
+
+<div class="login-form">
+	<!--login form-->
+	<h2>Login to your account</h2>
+	<div class="col-sm-7 col-sm-offset-1">
+		<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+		<form asp-action="Login" asp-controller="Account">
+
+
+			<div class="form-group">
+				<label>UserName</label>
+				<input asp-for="UserName" class="form-control" />
+				<span asp-validation-for="UserName" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label>Password</label>
+				<input asp-for="Password" class="form-control" />
+				<span asp-validation-for="Password" class="text-danger"></span>
+			</div>
+			<button class="btn btn-default">Login</button>
+			<a asp-action="Create" asp-controller="Account" >Tạo Tài Khoản Mới</a>
+		</form>
+	</div><!--/login form-->
+	@section Scripts {
+		@{
+			await Html.RenderPartialAsync("_ValidationScriptsPartial");
+		}
+	}
+

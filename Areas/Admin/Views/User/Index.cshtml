@@ -1,0 +1,81 @@
+﻿ @* chỗ này do Hiển thị role cho user nên đã lấy vị trí cuarnos rôi fneen khoogn cần gọi IEnum...<></> *@
+
+@{
+    ViewData["title"] = "User Listed";
+}
+<h3>List User</h3>
+<a asp-action="Create" class="btn btn-success btn-sm">Create</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">UserName</th>
+            <th scope="col">Email</th>
+            <th scope="col">PasswordHash</th>
+            <th scope <th></th>
+            <th>Roles</th>
+          
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var userWithRoles in Model)
+        {
+            <tr>
+                <th>#</th>
+                <td>@userWithRoles.User.UserName</td>
+                <td>@userWithRoles.User.Email</td>
+                <td>****</td>
+                <td>@userWithRoles.User.PhoneNumber</td> @* đã đưuọc định nghĩa sẵn trong Identity *@
+                
+                <td>
+                    @userWithRoles.RoleName
+                </td>
+                
+               
+             
+                <td>
+                    <a asp-action="Edit" class="btn btn-warning btn-sm" asp-controller="User" asp-route-Id="@userWithRoles.User.Id">Edit</a>
+                    <a asp-action="Delete" class="btn btn-danger btn-sm confirmDeletion" asp-controller="User" asp-route-id="@userWithRoles.User.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .btn-success {
+        margin-bottom: 7px;
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: cornflowerblue;
+        border: 2px solid pink;
+    }
+
+        .table th, .table td {
+            font-family: 'Roboto', sans-serif;
+            font-size: 16px;
+            text-align: left;
+            vertical-align: middle;
+            border: 2px solid pink;
+            padding: 8px;
+            background-color: white;
+        }
+
+        .table th {
+            font-weight: bold;
+            background-color: white;
+        }
+
+    h3 {
+        font-family: 'Georgia', serif;
+        color: #333;
+    }
+</style>

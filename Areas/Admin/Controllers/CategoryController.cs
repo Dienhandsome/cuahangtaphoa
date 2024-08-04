@@ -1,15 +1,18 @@
 ﻿using CUAHANG_TAPHOA.Models;
 using CUAHANG_TAPHOA.Reponsitory;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
+
 
 namespace CUAHANG_TAPHOA.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class CategoryController : Controller
+
+	[Authorize(Roles = "Admin,publisher")]// khi đăng nhập thì mới cho vào category
+	public class CategoryController : Controller
     {
         private readonly DataContext _dataContext;
         public CategoryController(DataContext context)

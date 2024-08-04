@@ -3,7 +3,7 @@ using CUAHANG_TAPHOA.Reponsitory;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
-using System.Collections.Generic;
+
 
 
 namespace CUAHANG_TAPHOA.Controllers
@@ -32,9 +32,16 @@ namespace CUAHANG_TAPHOA.Controllers
 		}
 
 		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-		public IActionResult Error()
+		public IActionResult Error(int statusCode)
 		{
-			return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+			if (statusCode == 404)
+			{
+				return View("Error404");
+			}
+			else
+			{
+				return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+		    }
 		}
 	}
 }

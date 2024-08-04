@@ -1,0 +1,100 @@
+﻿
+@model IEnumerable<OrderModel>
+
+@{
+    ViewData["title"] = "Order Listed";
+}
+
+<h3>List Order</h3>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Order Code</th>
+            <th scope="col">UserName</th>
+            <th scope="col">CreateDate</th> 
+            <th scope="col">Order Status</th>
+           @*  <th scope="col">Action</th> *@
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th>#</th>
+                    <th scope="row">@item.OrderCode</th>
+                    <td>@item.UserName</td>
+                    <td>@item.CreatedDate</td>
+
+
+                    <td>
+                        @if (@item.Status == 1)
+                        {
+                            <span class="text text-danger">Đơn hàng mới</span>
+                        }
+                        else
+                        {
+                            <span class="text text-warming">Đã thành công</span>
+                        }
+                    </td>
+                   @*  <td>
+                        <a asp-action="Edit" class="btn btn-warning btn-sm" asp-controller="Order" asp-route-ordercode="@item.OrderCode">View Order</a>
+                        <a asp-action="Delete" class="btn btn-danger btn-sm confirmDeletion" asp-controller="Order" asp-route-id="@item.Id">Delete</a>
+                    </td> *@
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="9" style="text-align: center;">No products found.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    /* .btn-warning {
+        margin-bottom: 12px;
+    } */
+
+    .btn-success {
+        margin-bottom: 7px;
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: cornflowerblue;
+        border: 2px solid pink;
+    }
+
+        .table th, .table td {
+            font-family: 'Roboto', sans-serif;
+            font-size: 16px;
+            text-align: left;
+            vertical-align: middle;
+            border: 2px solid pink;
+            padding: 8px;
+            background-color: white;
+        }
+
+        .table th {
+            font-weight: bold;
+            background-color: white;
+        }
+
+    h3 {
+        font-family: 'Georgia', serif;
+        color: #333;
+    }
+</style>

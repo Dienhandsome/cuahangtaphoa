@@ -1,0 +1,84 @@
+﻿@model IEnumerable<RoleViewModel>  // phải lấy từ RoleId trong AppUserModel thay vì lấy trong usermodel
+
+@{
+    ViewData["title"] = "Roles Listed";
+}
+
+<h3>List Roles</h3>
+
+<a asp-action="Create" class="btn btn-success btn-sm" asp-controller="AppRoles">Create Roles</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th scope="col">Id</th>
+            <th scope="col">Role Name</th>
+            <th scope="col">Manage</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                 
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>
+                        <a asp-action="Edit" class="btn btn-warning btn-sm" asp-controller="AppRoles" asp-route-id="@item.Id">Edit</a>
+                        <a asp-action="Delete" class="btn btn-danger btn-sm confirmDeletion" asp-controller="AppRoles" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="3" style="text-align: center;">No roles found.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .btn-warning {
+        margin-bottom: 2px;
+    }
+
+    .btn-success {
+        margin-bottom: 7px;
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: cornflowerblue;
+        border: 2px solid pink;
+    }
+
+        .table th, .table td {
+            font-family: 'Roboto', sans-serif;
+            font-size: 16px;
+            text-align: left;
+            vertical-align: middle;
+            border: 2px solid pink;
+            padding: 8px;
+            background-color: white;
+        }
+
+        .table th {
+            font-weight: bold;
+            background-color: white;
+        }
+
+    h3 {
+        font-family: 'Georgia', serif;
+        color: #333;
+    }
+</style>

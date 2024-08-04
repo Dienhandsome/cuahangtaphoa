@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WcenFJ/EylzT+Nb6GLEzi5bkXSmNHxjbV5+iITaOowI=",
+  "Hash": "EO8GFS2YFC/Z4D1Rzcu3qg2n6cwgLruFjRav0UBKTmA=",
   "Source": "CUAHANG_TAPHOA",
   "BasePath": "_content/CUAHANG_TAPHOA",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CUAHANG_TAPHOA.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\backend\\js\\site.js",
+      "SourceId": "CUAHANG_TAPHOA",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "BasePath": "_content/CUAHANG_TAPHOA",
+      "RelativePath": "backend/js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\backend\\js\\site.js"
     },
     {
       "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\animate.css",
@@ -889,6 +908,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\media\\products\\7f002fba-d2f3-468d-826f-852bd70bd545_4.jpg"
+    },
+    {
+      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\85f1f21a-8894-4014-bd8e-508ca4055598_susu.jpg",
+      "SourceId": "CUAHANG_TAPHOA",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "BasePath": "_content/CUAHANG_TAPHOA",
+      "RelativePath": "media/products/85f1f21a-8894-4014-bd8e-508ca4055598_susu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\products\\85f1f21a-8894-4014-bd8e-508ca4055598_susu.jpg"
     },
     {
       "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\a0e98621-3883-43d5-94b1-43e3b9fd74b6_2.jpg",

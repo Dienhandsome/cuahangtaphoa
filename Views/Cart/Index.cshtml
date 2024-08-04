@@ -75,8 +75,16 @@
 							<td> <a asp-controller="Cart" asp-action="Clear" method="post" style="display: end-right;">
 								<button type="submit" class="btn btn-danger btn-sm">Clear</button>
 							</a></td>
+							@if (User.Identity?.IsAuthenticated ?? false) // đăng nhập mới có thể checkout
+							{
 
-							
+								<td>
+									<a asp-controller="Checkout" asp-action="Checkout" method="post" style="display: end-right;">
+										<button type="submit" class="btn btn-primary btn-sm">Checkout</button>
+									</a>
+								</td>
+
+							}
 
 						</tr>
 					}

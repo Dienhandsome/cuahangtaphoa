@@ -7,7 +7,7 @@
 	<meta name="author" content="">
 	<title>Home | TẠP HÓA</title>
 	<link href="~/css/bootstrap.min.css" rel="stylesheet">
-	<link href="~/css/font-awesome.min.css" rel="stylesheet">
+	<link href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/css/font-awesome.css rel="stylesheet">
 	<link href="~/css/prettyPhoto.css" rel="stylesheet">
 	<link href="~/css/price-range.css" rel="stylesheet">
 	<link href="~/css/animate.css" rel="stylesheet">
@@ -89,11 +89,21 @@
 					<div class="col-sm-8">
 						<div class="shop-menu pull-right">
 							<ul class="nav navbar-nav">
-								<li><a href="#"><i class="fa fa-user"></i> Account</a></li>
-								<li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
-								<li><a href="checkout.html"><i class="fa fa-crosshairs"></i> Checkout</a></li>
+								
 								<li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-								<li><a href="login.html"><i class="fa fa-lock"></i> Login</a></li>
+								@if(User.Identity?.IsAuthenticated ?? false)
+								{
+									
+									<li><a href="checkout.html"><i class="fa fa-crosshairs"></i> Checkout</a></li>
+									<li><a href="#"><i class="fa fa-user"></i> Account</a></li>
+									<li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
+									<li><a asp-controller="Account" asp-action="Logout"><i class="fa fa-lock"></i> Hello, @User.Identity.Name Logout</a></li>
+								}
+								else
+								{
+									<li><a asp-controller="Account" asp-action="Login"><i class="fa fa-lock"></i>Login</a></li>
+								}
+
 							</ul>
 						</div>
 					</div>
@@ -125,18 +135,21 @@
 										<li><a asp-controller="Product" asp-action="Detail">Product Details</a></li>
 										<li><a asp-action="Index" asp-controller="Checkout">Checkout</a></li>
 										<li><a asp-controller="Cart">Cart</a></li>
-										<li><a asp-controller="Login">Login</a></li>
+										<li><a asp-controller="Account">Login</a></li>
+										
 									</ul>
 								</li>
-								<li class="dropdown">
+								<li><a asp-area="Admin" asp-controller="User">Admin</a></li>
+
+								@* <li class="dropdown">
 									<a href="#">Blog<i class="fa fa-angle-down"></i></a>
 									<ul role="menu" class="sub-menu">
 										<li><a href="blog.html">Blog List</a></li>
 										<li><a href="blog-single.html">Blog Single</a></li>
 									</ul>
-								</li>
-								<li><a href="404.html">404</a></li>
-								<li><a href="contact-us.html">Contact</a></li>
+								</li> *@
+								@* <li><a href="404.html">404</a></li>
+								<li><a href="contact-us.html">Contact</a></li> *@
 							</ul>
 						</div>
 					</div>
@@ -165,17 +178,17 @@
 						<div class="carousel-inner">
 							<div class="item active">
 								<div class="col-sm-12 text-center">
-									<img src="~/images/red.png" class="img-responsive center-block uniform-img" alt="" />
+									<img src="~/images/red.png" width="70%" alt="" />
 								</div>
 							</div>
 							<div class="item">
 								<div class="col-sm-12 text-center">
-									<img src="~/images/ngocery.png" class="img-responsive center-block uniform-img" alt="" />
+									<img src="~/images/ngocery.png" width="70%" alt="" />
 								</div>
 							</div>
 							<div class="item">
 								<div class="col-sm-12 text-center">
-									<img src="~/images/mmgocery.png" class="img-responsive center-block uni-img" alt="" />
+									<img src="~/images/mmgocery.png"  width="70%" alt="" />
 								</div>
 							</div>
 						</div>
@@ -381,5 +394,8 @@
 	<script src="~/js/price-range.js"></script>
 	<script src="~/js/jquery.prettyPhoto.js"></script>
 	<script src="~/js/main.js"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+
+	
 </body>
 </html>

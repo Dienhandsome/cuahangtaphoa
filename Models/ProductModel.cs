@@ -27,7 +27,9 @@ namespace CUAHANG_TAPHOA.Models
         [Range(0.01, double.MaxValue, ErrorMessage = "Giá Sản phẩm phải lớn hơn 0")]
         [Column(TypeName = "decimal(8,2)")]
         [Display(Name = "Giá Sản phẩm")]
-        public decimal Price { get; set; }
+
+		
+		public decimal Price { get; set; }
 
         [Display(Name = "Thương hiệu")]
         public int BrandId { get; set; }
