@@ -10,7 +10,7 @@
 		public int EndPage { get; private set; }
 		public Paginate() { }
 
-		public Paginate(int totalItems, int page, int pageSize = 10) // set 10 items trên trang
+		public Paginate(int totalItems, int page, int pageSize = 5) // set 10 items trên trang
 		{
 			// làm tròn tổng items/10 items trên 1 trang vd: 14 item/10 = làm tròn thì 3 trang => 2 trang 10 trang cuối 4 items
 			int totalPages = (int)Math.Ceiling((decimal)totalItems / (decimal)pageSize);
@@ -28,7 +28,7 @@
 			if (endPage > totalPages)
 			{
 				endPage = totalPages;
-				if (endPage > 10)
+				if (endPage > 5)
 				{
 					startPage = endPage - 9;
 				}

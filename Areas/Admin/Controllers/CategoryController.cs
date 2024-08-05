@@ -26,7 +26,7 @@ namespace CUAHANG_TAPHOA.Areas.Admin.Controllers
 		{
 			List<CategoryModel> category = _dataContext.Category.ToList();
 
-			const int pageSize = 10;
+			const int pageSize = 5;
 			if (pg < 1)
 			{
 				pg = 1;

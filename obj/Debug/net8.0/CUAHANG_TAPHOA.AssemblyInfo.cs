@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CUAHANG_TAPHOA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a50407d3f01e42394fa8a217ac9880384cac9b0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d611222e73de576e66aaa466424975281511a930")]
 [assembly: System.Reflection.AssemblyProductAttribute("CUAHANG_TAPHOA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CUAHANG_TAPHOA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

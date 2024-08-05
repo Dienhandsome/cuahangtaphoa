@@ -1,0 +1,41 @@
+﻿@* @model CUAHANG_TAPHOA.Models.Paginate;
+
+
+<div class="container">
+    @if (Model.TotalPages > 0) //2 trang
+    {
+        <ul class="phân trang biện minh-nội dung-end">
+
+            @if (Model.CurrentPage > 1)
+            {
+                <li class="trang-item">
+                    <a class="page-link" asp-action="Index"
+                       asp-route-pg="1">Đầu tiên</a>
+                </li>
+                <li class="trang-item">
+                    <a class="page-link" asp-action="Index"
+                       asp-route-pg="@(Model. CurrentPage - 1)">Trước</a>
+                </li>
+            }
+            @for (var pge = Model.StartPage; pge <= Model.EndPage; pge++) //1 = 1 <= 2
+            {
+                <li class="page-item @(pge==Model.CurrentPage ? "active" : "")">
+                    <a class="page-link" asp-action="Index" asp-route-pg="@pge">@pge</a>
+                </li>
+
+
+            }
+            @if (Model.CurrentPage < Model.TotalPages)
+            {
+                <li class="trang-item">
+                    <a class="page-link" asp-action="Index"
+                       asp-route-pg="@(Model.CurrentPage+1)">Tiếp theo</a>
+                </li>
+                <li class="trang-item">
+                    <a class="page-link" asp-action="Index"
+                       asp-route-pg="@(Model.TotalPages)">Cuối cùng</a>
+                </li>
+            }
+        </ul>
+    }
+</div> *@
