@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EO8GFS2YFC/Z4D1Rzcu3qg2n6cwgLruFjRav0UBKTmA=",
+  "Hash": "MhNl4IxybQUstQNE1P2niaGIHaiHhFcPzJqui3WbBdw=",
   "Source": "CUAHANG_TAPHOA",
   "BasePath": "_content/CUAHANG_TAPHOA",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CUAHANG_TAPHOA\\wwwroot",
       "Source": "CUAHANG_TAPHOA",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CUAHANG_TAPHOA.styles.css",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CUAHANG_TAPHOA.styles.css",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "CUAHANG_TAPHOA.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CUAHANG_TAPHOA.styles.css"
+      "OriginalItemSpec": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CUAHANG_TAPHOA.styles.css"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CUAHANG_TAPHOA.bundle.scp.css",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CUAHANG_TAPHOA.bundle.scp.css",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "CUAHANG_TAPHOA.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CUAHANG_TAPHOA.bundle.scp.css"
+      "OriginalItemSpec": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CUAHANG_TAPHOA.bundle.scp.css"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\backend\\js\\site.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\backend\\js\\site.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "backend/js/site.js",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\backend\\js\\site.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\animate.css",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\animate.css",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\main.css",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\main.css",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\prettyPhoto.css",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\prettyPhoto.css",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "css/prettyPhoto.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\prettyPhoto.css"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\price-range.css",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\price-range.css",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "css/price-range.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\price-range.css"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\responsive.css",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\css\\responsive.css",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\favicon.ico",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\favicon.ico",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\1.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\1.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/1.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\2.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\2.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/2.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\3.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\3.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/3.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\4.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\4.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/4.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\5.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\5.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/5.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\5.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\6.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\6.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/6.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\7.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\7.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/7.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\7245637642.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\7245637642.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/7245637642.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7245637642.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\7af47596-4603-4954-a3a4-2f1cf77dc2b1_vinacf.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\7af47596-4603-4954-a3a4-2f1cf77dc2b1_vinacf.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/7af47596-4603-4954-a3a4-2f1cf77dc2b1_vinacf.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7af47596-4603-4954-a3a4-2f1cf77dc2b1_vinacf.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\mgocery.png",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\mgocery.png",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/mgocery.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mgocery.png"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\mmgocery.png",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\mmgocery.png",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/mmgocery.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mmgocery.png"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\ngocery.png",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\ngocery.png",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/ngocery.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ngocery.png"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\red.png",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\red.png",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/red.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\red.png"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\vinacf242308506.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\vinacf242308506.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/vinacf242308506.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vinacf242308506.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\vinacf242430830.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\vinacf242430830.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/vinacf242430830.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vinacf242430830.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\vinacf242517297.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\vinacf242517297.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/vinacf242517297.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vinacf242517297.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\vinacf245758358.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\images\\vinacf245758358.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "images/vinacf245758358.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vinacf245758358.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\contact.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\contact.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "js/contact.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\gmaps.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\gmaps.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "js/gmaps.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\js\\gmaps.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\html5shiv.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\html5shiv.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "js/html5shiv.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\js\\html5shiv.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\jquery.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\jquery.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "js/jquery.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\jquery.prettyPhoto.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "js/jquery.prettyPhoto.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\jquery.scrollUp.min.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "js/jquery.scrollUp.min.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\main.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\main.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\price-range.js",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\js\\price-range.js",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "js/price-range.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\js\\price-range.js"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\01887afa-8c33-483a-a8ff-f114667d1dbb_vinacf.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\01887afa-8c33-483a-a8ff-f114667d1dbb_vinacf.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "media/products/01887afa-8c33-483a-a8ff-f114667d1dbb_vinacf.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\01887afa-8c33-483a-a8ff-f114667d1dbb_vinacf.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\4ef68dec-797a-46f5-9e34-4ee7d4733404_3.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\4ef68dec-797a-46f5-9e34-4ee7d4733404_3.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "media/products/4ef68dec-797a-46f5-9e34-4ee7d4733404_3.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\4ef68dec-797a-46f5-9e34-4ee7d4733404_3.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\5e249246-887f-49aa-991e-87787502ea13_6.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\5e249246-887f-49aa-991e-87787502ea13_6.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "media/products/5e249246-887f-49aa-991e-87787502ea13_6.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\5e249246-887f-49aa-991e-87787502ea13_6.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\71e55939-f482-485c-9d84-60a116821968_1.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\71e55939-f482-485c-9d84-60a116821968_1.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "media/products/71e55939-f482-485c-9d84-60a116821968_1.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\71e55939-f482-485c-9d84-60a116821968_1.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\7f002fba-d2f3-468d-826f-852bd70bd545_4.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\7f002fba-d2f3-468d-826f-852bd70bd545_4.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "media/products/7f002fba-d2f3-468d-826f-852bd70bd545_4.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\7f002fba-d2f3-468d-826f-852bd70bd545_4.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\85f1f21a-8894-4014-bd8e-508ca4055598_susu.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\85f1f21a-8894-4014-bd8e-508ca4055598_susu.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "media/products/85f1f21a-8894-4014-bd8e-508ca4055598_susu.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\85f1f21a-8894-4014-bd8e-508ca4055598_susu.jpg"
     },
     {
-      "Identity": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\a0e98621-3883-43d5-94b1-43e3b9fd74b6_2.jpg",
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\a0e98621-3883-43d5-94b1-43e3b9fd74b6_2.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
       "BasePath": "_content/CUAHANG_TAPHOA",
       "RelativePath": "media/products/a0e98621-3883-43d5-94b1-43e3b9fd74b6_2.jpg",
       "AssetKind": "All",

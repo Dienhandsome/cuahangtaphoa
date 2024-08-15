@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "spe+VkG1XNJFU9T7P/1ymZZVkjb2A4n+Izy2aajvSzdMmlBFYIpcav4NQJLR8U+1k6Pr9Ry00/hoBelIDs/EsA==",
+  "dgSpecHash": "JDFJCjz5mZwVT2BBRT/lley+giKd0Non65EXJ6US/RXzHz80rHcpCp7pfA1k4y3vyyYPGnqFceNHf8Mq4NNtjw==",
   "success": true,
-  "projectFilePath": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj",
+  "projectFilePath": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HOANG DIEN\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\HOANG DIEN\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj": {}
+    "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj": {}
   },
   "projects": {
-    "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj": {
+    "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj",
+        "projectUniqueName": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj",
         "projectName": "CUAHANG_TAPHOA",
-        "projectPath": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj",
+        "projectPath": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA.csproj",
         "packagesPath": "C:\\Users\\HOANG DIEN\\.nuget\\packages\\",
-        "outputPath": "D:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\",
+        "outputPath": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HOANG DIEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

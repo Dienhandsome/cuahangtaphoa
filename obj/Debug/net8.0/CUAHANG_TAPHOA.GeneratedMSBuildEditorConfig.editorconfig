@@ -9,211 +9,215 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CUAHANG_TAPHOA
 build_property.RootNamespace = CUAHANG_TAPHOA
-build_property.ProjectDir = D:\CRUB_FB_.NET\CUAHANG_TAPHOA\CUAHANG_TAPHOA\
+build_property.ProjectDir = E:\CRUB_FB_.NET\CUAHANG_TAPHOA\CUAHANG_TAPHOA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\CRUB_FB_.NET\CUAHANG_TAPHOA\CUAHANG_TAPHOA
+build_property.MSBuildProjectDirectory = E:\CRUB_FB_.NET\CUAHANG_TAPHOA\CUAHANG_TAPHOA
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/AppRoles/Create.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/AppRoles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwUm9sZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/AppRoles/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/AppRoles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Create.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Delete.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Edit.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Brand/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Create.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Delete.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Edit.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Order/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Order/ViewOrder.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Order/ViewOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcVmlld09yZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Product/Create.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Product/Delete.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Product/Edit.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Product/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/Components/Brands/Default.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/Components/Brands/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQnJhbmRzXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/Components/Categories/Default.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/Components/Categories/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/Error.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_Paging.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_Paging.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9QYWdpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_SideBar.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_SideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/User/Create.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/User/Edit.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/User/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/_ViewImports.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/_ViewStart.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Account/Create.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Account/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Account/Login.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Brand/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Brand/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Cart/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Category/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Checkout/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Checkout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Home/Error404.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Home/Error404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Home/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Home/Privacy.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Login/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Product/Detail.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Product/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Product/Index.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/Components/Brands/Default.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Product/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/Components/Brands/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQnJhbmRzXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/Components/Categories/Default.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/Components/Categories/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/Error.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/_NotificationPartial.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/_NotificationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/_SideBar.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/_SideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/_ViewImports.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/_ViewStart.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_Layout.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-aq33s11uhc
 
-[D:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/_Layout.cshtml]
+[E:/CRUB_FB_.NET/CUAHANG_TAPHOA/CUAHANG_TAPHOA/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-94wagmt7fq
