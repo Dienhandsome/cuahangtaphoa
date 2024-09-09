@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 namespace CUAHANG_TAPHOA.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles ="Admin,Boss")]
+    [Authorize()]
     public class UserController : Controller
     {
 

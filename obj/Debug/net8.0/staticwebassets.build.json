@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MhNl4IxybQUstQNE1P2niaGIHaiHhFcPzJqui3WbBdw=",
+  "Hash": "I9kP+zQuNbzFl4fm5hwcXZ7K2/TWiAuaq16h4ueiadA=",
   "Source": "CUAHANG_TAPHOA",
   "BasePath": "_content/CUAHANG_TAPHOA",
   "Mode": "Default",
@@ -853,6 +853,25 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\4ef68dec-797a-46f5-9e34-4ee7d4733404_3.jpg"
     },
     {
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\5e232c31-d008-45a8-8046-d9c297d02847_milo.jpg",
+      "SourceId": "CUAHANG_TAPHOA",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "BasePath": "_content/CUAHANG_TAPHOA",
+      "RelativePath": "media/products/5e232c31-d008-45a8-8046-d9c297d02847_milo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\products\\5e232c31-d008-45a8-8046-d9c297d02847_milo.jpg"
+    },
+    {
       "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\5e249246-887f-49aa-991e-87787502ea13_6.jpg",
       "SourceId": "CUAHANG_TAPHOA",
       "SourceType": "Discovered",
@@ -927,6 +946,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\media\\products\\85f1f21a-8894-4014-bd8e-508ca4055598_susu.jpg"
+    },
+    {
+      "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\97f24ad0-9864-41f3-ae4a-298d839424d4_tq.jpg",
+      "SourceId": "CUAHANG_TAPHOA",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\",
+      "BasePath": "_content/CUAHANG_TAPHOA",
+      "RelativePath": "media/products/97f24ad0-9864-41f3-ae4a-298d839424d4_tq.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\products\\97f24ad0-9864-41f3-ae4a-298d839424d4_tq.jpg"
     },
     {
       "Identity": "E:\\CRUB_FB_.NET\\CUAHANG_TAPHOA\\CUAHANG_TAPHOA\\wwwroot\\media\\products\\a0e98621-3883-43d5-94b1-43e3b9fd74b6_2.jpg",

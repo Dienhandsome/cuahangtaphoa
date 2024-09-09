@@ -11,7 +11,7 @@ namespace CUAHANG_TAPHOA.Areas.Admin.Controllers
 {
 	[Area("Admin")]
 
-	[Authorize(Roles = "Admin,publisher")]// khi đăng nhập thì mới cho vào category
+	[Authorize()]// khi đăng nhập thì mới cho vào category
 	public class CategoryController : Controller
 	{
 		private readonly DataContext _dataContext;
@@ -26,7 +26,7 @@ namespace CUAHANG_TAPHOA.Areas.Admin.Controllers
 		{
 			List<CategoryModel> category = _dataContext.Category.ToList();
 
-			const int pageSize = 5;
+			const int pageSize = 5; // 5 ITEMSS TRÊN TRANG
 			if (pg < 1)
 			{
 				pg = 1;

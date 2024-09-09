@@ -13,7 +13,7 @@ namespace CUAHANG_TAPHOA.Areas.Admin.Controllers
     
 
     [Area("Admin")]
-    [Authorize(Roles = "Admin,Boss")]
+    [Authorize()]
     public class AppRolesController : Controller
     {
         private readonly RoleManager<IdentityRole> _roleManager;

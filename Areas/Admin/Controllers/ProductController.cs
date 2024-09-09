@@ -25,12 +25,31 @@ namespace CUAHANG_TAPHOA.Areas.Admin.Controllers
 			_webHostEnvironment = webHostEnvironment;
 		}
 
-		public async Task<IActionResult> Index()
-		{
-			return View(await _dataContext.Product.OrderByDescending(p => p.Id).Include(p => p.Category).Include(p => p.Brand).ToListAsync());
-		}
+        //public async Task<IActionResult> Index()
+        //{
+        //	return View(await _dataContext.Product.OrderByDescending(p => p.Id).Include(p => p.Category).Include(p => p.Brand).ToListAsync());
+        //}
 
-		[HttpGet]
+       
+        public async Task<IActionResult> Index(int pg = 1) // khi phân trang mới sd như này
+        {
+            List<ProductModel> products = _dataContext.Product.ToList();
+
+            const int pageSize = 5; // 5 ITEMSS TRÊN TRANG
+            if (pg < 1)
+            {
+                pg = 1;
+            }
+            int recsCount = products.Count();
+            var pager = new Paginate(recsCount, pg, pageSize);
+            int recSkip = (pg - 1) * pageSize;
+            var data = products.Skip(recSkip).Take(pager.PageSize).ToList();
+            ViewBag.Pager = pager;
+            return View(data);
+            //return View(await _dataContext.Category.OrderByDescending(p => p.Id).ToListAsync());
+        }
+
+        [HttpGet]
 		public IActionResult Create()
 		{
 			ViewBag.Category = new SelectList(_dataContext.Category, "Id", "Name");
